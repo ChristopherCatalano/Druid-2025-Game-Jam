@@ -13,7 +13,7 @@ As the night progresses, the nightmares increase in number and become more aggre
 **Engine:** Unreal Engine  
 **Status:** Prototype  
 **Game Jam:** Druid Mechanics Game Jam  
-**URL** [itch.io](https://rawrbigcat.itch.io/night-watch)
+**URL:** [itch.io](https://rawrbigcat.itch.io/night-watch)
 
 ## Team & Roles
 
